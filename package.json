@@ -1,0 +1,24 @@
+{
+  "name": "project-agile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"CI/CD Berhasil\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armayy/project-agile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/armayy/project-agile/issues"
+  },
+  "homepage": "https://github.com/armayy/project-agile#readme"
+}
